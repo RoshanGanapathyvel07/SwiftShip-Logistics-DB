@@ -57,5 +57,4 @@ source project.sql;
 
 ---
 
-## 👨‍💻 Author
-Your Name
+
