@@ -1,0 +1,8 @@
+Partner Scorecard Output:
+
+PartnerName     | TotalShipments | Delayed | SuccessRate
+-------------------------------------------------------
+FastExpress     | 2              | 1       | 100%
+QuickMove       | 2              | 1       | 50%
+BlueDartPro     | 2              | 1       | 50%
+ShipNow         | 2              | 0       | 100%
